@@ -1,9 +1,12 @@
 h1{
     font-size: 40px;
-    padding-top: 20px;
+    padding-top: 30px;
     text-align: center;
 }
 
+body{
+  background-image: url(./images/image4.gif);
+}
 
 .card-custom {
     overflow: hidden;
@@ -49,4 +52,10 @@ h1{
     width: 100px;
     height: 100px;
   }
+
+.container {
+  font-size: 14px;
+  color: #666666;
+  font-family: "Open Sans";
+}
   
